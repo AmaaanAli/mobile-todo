@@ -2,10 +2,16 @@
 
 A full-stack todo application built with **FastAPI** (backend), **MongoDB** (database), and **React Native with Expo** (mobile frontend). Features JWT authentication, API integration, and a clean navigation structure.
 
-![Screenshot](images/1.jpeg)
-![Screenshot](images/2.jpeg)
-![Screenshot](images/3.jpeg)
-![Screenshot](images/4.jpeg)
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/1.jpeg" width="250" height="450" /></td>
+    <td align="center"><img src="images/2.jpeg" width="250" height="450" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/3.jpeg" width="250" height="450" /></td>
+    <td align="center"><img src="images/4.jpeg" width="250" height="450" /></td>
+  </tr>
+</table>
 
 ## 🚀 Quick Start
 
